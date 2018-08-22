@@ -1,7 +1,6 @@
-# Welcome
-
-![](../.gitbook/assets/icon-256.png)
-
+---
+title: Welcome
+---
 ## **Welcome to Arivaa Firebase Documentation**
 
 In this documentation, you will find following things
@@ -27,4 +26,3 @@ In this documentation, you will find following things
 * Click [here](../overview/technologies.md) to skip directly to technologies that are using for Arivaa Firebase development 
 * Click [here](../architecture/project-structure-and-organization.md) to skip directly to understand code architecture i.e. "Architecture" section
 * Click [here](../components/form.md) to skip directly to understand components usage in application i.e. "Components" section
-
