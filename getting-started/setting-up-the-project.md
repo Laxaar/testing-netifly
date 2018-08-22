@@ -1,5 +1,6 @@
-# Setting up the project
-
+---
+title: Setting up the project
+---
 ## Project Contents
 
 1. Bundle.zip - This file contains all the code for Arivaa Firebase
@@ -40,4 +41,3 @@
 7. Configure Social Authentication for Google and Facebook by following the instructions in this [section](../customize/social-authentication.md).
 
 If you still face any issues in setting up the projects, contact us, and we will get back to you as soon as possible. .
-
