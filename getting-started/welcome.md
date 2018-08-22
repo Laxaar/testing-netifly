@@ -1,6 +1,8 @@
 ---
 title: Welcome
 ---
+![](/assets/icon-256.png)
+
 ## **Welcome to Arivaa Firebase Documentation**
 
 In this documentation, you will find following things
