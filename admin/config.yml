@@ -14,7 +14,6 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       #- {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
-collections:
   - name: "overview" # Used in routes, e.g., /admin/collections/blog
     label: "Overview" # Used in the UI
     folder: "/overview" # The path to the folder where the documents are stored
