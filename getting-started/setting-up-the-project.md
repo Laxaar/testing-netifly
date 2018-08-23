@@ -34,10 +34,10 @@ title: Setting up the project
    2. Install the expo app using App store/Play Store and open it.
    3. Click on Scan QR Code and scan the code showing on the Expo Client or in the terminal.\(If you ran the project via command line\)
    4. The app should open on your mobile.
-5. **Hosting the webview file over the web\(Only required for Phone, Github and Twitter Authentication\)** : Under components/CustomWebview, there is a index.html which will have to be hosted over any online hosting that you might have. This is neccesary to support Github,Twitter and Phone Authentication. To read why, Check this [section](../architecture/firebase-implementation). This is a one time process normally, But if you change the index.html, then make sure to push the changes online. Make sure to update the webview url under js/config/environment.js.
+5. **Hosting the webview file over the web\(Only required for Phone, Github and Twitter Authentication\)** : Under components/CustomWebview, there is a index.html which will have to be hosted over any online hosting that you might have. This is neccesary to support Github,Twitter and Phone Authentication. To read why, Check this [section](/architecture/firebase-implementation). This is a one time process normally, But if you change the index.html, then make sure to push the changes online. Make sure to update the webview url under js/config/environment.js.
 6. **Firebase setup :**  1. Setup the the project in firebase by following instructions at this [link](https://firebase.google.com/docs/).
    1. Go to the project in firebase console under the _Authentication_ section on left sidebar and enable all sign in methods in _Sign In Method Tab._
-   2. **Add the website url you used in step-4 in authorized domains at the bottom under** _**Sign In Method Tab**_**.** [**Details**](../architecture/firebase-implementation#important-notes-regarding-web-view-hosting)
-7. Configure Social Authentication for Google and Facebook by following the instructions in this [section](../customize/social-authentication).
+   2. **Add the website url you used in step-4 in authorized domains at the bottom under** _**Sign In Method Tab**_**.** [**Details**](/architecture/firebase-implementation#important-notes-regarding-web-view-hosting)
+7. Configure Social Authentication for Google and Facebook by following the instructions in this [section](/customize/social-authentication).
 
 If you still face any issues in setting up the projects, contact us, and we will get back to you as soon as possible. .
