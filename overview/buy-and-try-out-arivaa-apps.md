@@ -8,13 +8,13 @@ Don't know what expo is? Click [here](../getting-started/running-the-demo) for s
 
 **Arivaa Firebase \(Available to Purchase -** [**Link**](https://codecanyon.net/item/arivaa-firebase-react-native-and-expo/21687363?s_rank=1) **\)**
 
-![](../.gitbook/assets/screen-shot-2018-04-01-at-9.30.48-am.png)
+![](/assets/screen-shot-2018-04-01-at-9.30.48-am.png)
 
 [_Google Play_](https://play.google.com/store/apps/details?id=com.laxaar.arivaa.basicfirebase)
 
 **Arivaa Basic \(Available to Purchase -** [**Link**](https://codecanyon.net/item/arivaa-react-native-theme-basic-version/21411089?s_rank=1) **\)**
 
-![](../.gitbook/assets/screen-shot-2018-04-01-at-9.39.51-am.png)
+![](/assets/screen-shot-2018-04-01-at-9.39.51-am.png)
 
 [_Google Play_](https://play.google.com/store/apps/details?id=com.laxaar.arivaa.basic)
 
