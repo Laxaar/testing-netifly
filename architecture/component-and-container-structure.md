@@ -1,3 +1,6 @@
+---
+title: Component and Container Structure
+---
 # Component and Container Structure
 
 Normally, developers use a single file to define the component styles, logic etc. We believe in a different approach where the styles, logic and testing should be separate. Going forward with this approach, we use a different set of guidelines and structures, which are highlighted below. Following this approach is not mandatory in our application, but we are encouraging it based on our beliefs and research.
