@@ -1,3 +1,6 @@
+---
+title: Buy and Try out Arivaa Apps
+---
 # Buy and Try out Arivaa Apps
 
 ## Want to checkout Arivaa?
