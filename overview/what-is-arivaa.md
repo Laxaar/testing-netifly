@@ -15,5 +15,5 @@ Arivaa is a series of projects meant to solve real-life development problems. It
 * Defining an architecture that centres around configuration i.e Configuration over Convention
 * Each code vertical will be separated. For example, styles will be separate from view, despite the usage of React. 
 
-## Want to checkout Arivaa? Try it out [here](buy-and-try-out-arivaa-apps.md)
+## Want to checkout Arivaa? Try it out [here](buy-and-try-out-arivaa-apps)
 

@@ -18,13 +18,13 @@ In this documentation, you will find following things
 
 **Important Update :** 
 
-**23rd May 2018 -** **Arivaa Firebase's new version is rolled out. Check the change log** [**here**](../overview/changelog.md)
+**23rd May 2018 -** **Arivaa Firebase's new version is rolled out. Check the change log** [**here**](../overview/changelog)
 
-**22nd April 2018 -** **Arivaa Firebase's new version is rolled out. Check the change log** [**here**](../overview/changelog.md)
+**22nd April 2018 -** **Arivaa Firebase's new version is rolled out. Check the change log** [**here**](../overview/changelog)
 
 **Quick Links**
 
-* Click [here](../overview/buy-and-try-out-arivaa-apps.md) to skip directly to running application on your device i.e. "Try out Arivaa Firebase"
-* Click [here](../overview/technologies.md) to skip directly to technologies that are using for Arivaa Firebase development 
-* Click [here](../architecture/project-structure-and-organization.md) to skip directly to understand code architecture i.e. "Architecture" section
-* Click [here](../components/form.md) to skip directly to understand components usage in application i.e. "Components" section
+* Click [here](../overview/buy-and-try-out-arivaa-apps) to skip directly to running application on your device i.e. "Try out Arivaa Firebase"
+* Click [here](../overview/technologies) to skip directly to technologies that are using for Arivaa Firebase development 
+* Click [here](../architecture/project-structure-and-organization) to skip directly to understand code architecture i.e. "Architecture" section
+* Click [here](../components/form) to skip directly to understand components usage in application i.e. "Components" section

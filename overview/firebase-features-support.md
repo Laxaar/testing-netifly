@@ -24,5 +24,5 @@ Arivaa Basic firebase aims at integrating Arivaa Basic version with firebase. It
 | **Remote Config** | ✅ | ❌ |
 | **Storage** | ✅ | ✅ |
 
-**Check out implementation of firebase in detail** [**here**](../architecture/firebase-implementation.md)
+**Check out implementation of firebase in detail** [**here**](../architecture/firebase-implementation)
 

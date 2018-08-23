@@ -1,52 +1,50 @@
-# Table of contents
+- [Introduction](/README)
 
-* [Introduction](README.md)
+- [Getting Started](/getting-started/welcome)
 
-## Getting Started
+  - [Welcome](/getting-started/welcome)
+  - [Running the demo](/getting-started/running-the-demo)
+  - [Setting up the project](/getting-started/setting-up-the-project)
 
-* [Welcome](getting-started/welcome.md)
-* [Running the demo](getting-started/running-the-demo.md)
-* [Setting up the project](getting-started/setting-up-the-project.md)
+- [Overview](/overview/what-is-arivaa)
 
-## Overview
+  - [What is Arivaa?](/overview/what-is-arivaa)
+  - [What is Arivaa Firebase?](/overview/what-is-arivaa-firebase)
+  - [Firebase Features Support](/overview/firebase-features-support)
+  - [Buy and Try out Arivaa Apps](/overview/buy-and-try-out-arivaa-apps)
+  - [Technologies](/overview/technologies)
+  - [Changelog](/overview/changelog)
+  - [Support and Contact](/overview/support-and-contact)
+  - [Future Updates](/overview/future-updates)
 
-* [What is Arivaa?](overview/what-is-arivaa.md)
-* [What is Arivaa Firebase?](overview/what-is-arivaa-firebase.md)
-* [Firebase Features Support](overview/firebase-features-support.md)
-* [Buy and Try out Arivaa Apps](overview/buy-and-try-out-arivaa-apps.md)
-* [Technologies](overview/technologies.md)
-* [Changelog](overview/changelog.md)
-* [Support and Contact](overview/support-and-contact.md)
-* [Future Updates](overview/future-updates.md)
+- [Architecture](/architecture/project-structure-and-organization)
 
-## Architecture
+  - [Project Structure and Organization](/architecture/project-structure-and-organization)
+  - [Component and Container Structure](/architecture/component-and-container-structure)
+  - [Redux](/architecture/redux)
+  - [Localization](/architecture/localization)
+  - [Firebase implementation](/architecture/firebase-implementation)
 
-* [Project Structure and Organization](architecture/project-structure-and-organization.md)
-* [Component and Container Structure](architecture/component-and-container-structure.md)
-* [Redux](architecture/redux.md)
-* [Localization](architecture/localization.md)
-* [Firebase implementation](architecture/firebase-implementation.md)
+- [Customize](/customize/push-notifications)
 
-## Customize
+  - [Push Notifications](/customize/push-notifications)
+  - [Facebook Ads](/customize/facebook-ads)
+  - [Admob](/customize/admob)
+  - [Analytics](/customize/analytics)
+  - [Social Authentication](/customize/social-authentication)
 
-* [Push Notifications](customize/push-notifications.md)
-* [Facebook Ads](customize/facebook-ads.md)
-* [Admob](customize/admob.md)
-* [Analytics](customize/analytics.md)
-* [Social Authentication](customize/social-authentication.md)
+- [Components](/components/form)
 
-## Components
+  - [Form](/components/form)
+  - [Maps and Geolocation](/components/maps-and-geolocation)
+  - [Icon](/components/icon)
+  - [Link](/components/link)
+  - [Image Picker](/components/image-picker)
+  - [Modal](/components/modal)
+  - [Social Sign In](/components/social-sign-in)
 
-* [Form](components/form.md)
-* [Maps and Geolocation](components/maps-and-geolocation.md)
-* [Icon](components/icon.md)
-* [Link](components/link.md)
-* [Image Picker](components/image-picker.md)
-* [Modal](components/modal.md)
-* [Social Sign In](components/social-sign-in.md)
+- [License and Privacy Policy](/license-and-privacy-policy/license-and-terms-of-use)
 
-## License and Privacy Policy
-
-* [License and Terms of use](license-and-privacy-policy/license-and-terms-of-use.md)
-* [Privacy Policy](license-and-privacy-policy/privacy-policy.md)
+  - [License and Terms of use](/license-and-privacy-policy/license-and-terms-of-use)
+  - [Privacy Policy](/license-and-privacy-policy/privacy-policy)
 
